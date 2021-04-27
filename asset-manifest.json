@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rupert0603/hiring-exam-frontend/static/css/main.330a487b.chunk.css",
+    "main.js": "/rupert0603/hiring-exam-frontend/static/js/main.d693288f.chunk.js",
+    "main.js.map": "/rupert0603/hiring-exam-frontend/static/js/main.d693288f.chunk.js.map",
+    "runtime-main.js": "/rupert0603/hiring-exam-frontend/static/js/runtime-main.d784fab0.js",
+    "runtime-main.js.map": "/rupert0603/hiring-exam-frontend/static/js/runtime-main.d784fab0.js.map",
+    "static/js/2.3c41f7b9.chunk.js": "/rupert0603/hiring-exam-frontend/static/js/2.3c41f7b9.chunk.js",
+    "static/js/2.3c41f7b9.chunk.js.map": "/rupert0603/hiring-exam-frontend/static/js/2.3c41f7b9.chunk.js.map",
+    "static/js/3.2033875b.chunk.js": "/rupert0603/hiring-exam-frontend/static/js/3.2033875b.chunk.js",
+    "static/js/3.2033875b.chunk.js.map": "/rupert0603/hiring-exam-frontend/static/js/3.2033875b.chunk.js.map",
+    "index.html": "/rupert0603/hiring-exam-frontend/index.html",
+    "static/css/main.330a487b.chunk.css.map": "/rupert0603/hiring-exam-frontend/static/css/main.330a487b.chunk.css.map",
+    "static/js/2.3c41f7b9.chunk.js.LICENSE.txt": "/rupert0603/hiring-exam-frontend/static/js/2.3c41f7b9.chunk.js.LICENSE.txt",
+    "static/media/custom.css": "/rupert0603/hiring-exam-frontend/static/media/pexels-anni-roenkae-2457284.8ca3cb1d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d784fab0.js",
+    "static/js/2.3c41f7b9.chunk.js",
+    "static/css/main.330a487b.chunk.css",
+    "static/js/main.d693288f.chunk.js"
+  ]
+}
